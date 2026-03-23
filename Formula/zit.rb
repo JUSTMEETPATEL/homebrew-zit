@@ -1,8 +1,8 @@
 class Zit < Formula
   desc "A TUI-based Git dashboard for efficient repository management"
   homepage "https://github.com/JUSTMEETPATEL/zit"
-  url "https://github.com/JUSTMEETPATEL/zit/archive/refs/tags/v0.1.8.tar.gz"
-  sha256 "6383a8f19360606c6a4c6467bc0a7b55385007a0634f3dd6931eb7b286325ea4"
+  url "https://github.com/JUSTMEETPATEL/zit/archive/refs/tags/v0.1.9.tar.gz"
+  sha256 "8fd4e466ed5f969b8b32b59f30f15a95b1a567e5ed0ee0965b3dfe0c3aaa0559"
   license "MIT"
   head "https://github.com/JUSTMEETPATEL/zit.git", branch: "main"
 
